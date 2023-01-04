@@ -4,9 +4,6 @@ static-env:
   STREAMING_SUBSCRIPTION_FLAG: true
 
 user-env:
-  MSSQL_DATABASE_URL:
-    description: "MSSQL database URL"
-    mandatory: false
   ACTION_WEBHOOK_URL:
     default: "http://localhost:3000"
     description: "Action webhook url"
