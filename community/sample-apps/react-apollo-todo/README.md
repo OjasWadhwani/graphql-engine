@@ -5,6 +5,8 @@
 - [React App](https://react-apollo-todo.demo.hasura.app/)
 - [Hasura Console](https://react-apollo-todo.hasura.app/console)
 
+[![Deploy to Hasura Cloud](https://graphql-engine-cdn.hasura.io/img/deploy_to_hasura.png)](https://cloud.arusah.com?github_repo=https://github.com/OjasWadhwani/graphql-engine&hasura_dir=community/sample-apps/react-apollo-todo/hasura&branch=todo-sample-app)
+
 ## Tech stack
 
 - Frontend
